@@ -12,6 +12,7 @@
         android:layout_centerInParent="true"
         android:orientation="horizontal"
         android:gravity="center"
+        android:layout_marginHorizontal="5dp"
         android:weightSum="8">
 
         <Button
